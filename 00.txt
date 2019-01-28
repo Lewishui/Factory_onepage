@@ -1,0 +1,15 @@
+potno 槽号
+ddate 日期
+alcnt 出铝量
+lsp 铝水平
+djzsp 电解质水平
+djwd 电解温度
+fzb 分子比
+fecnt 铁含量
+sicnt 硅含量
+alocnt   alo浓度
+cafcnt  钙含量
+mgcnt 镁含量
+ldyj   炉底压降
+mlsp 多点铝水平
+lpw  铝品味
